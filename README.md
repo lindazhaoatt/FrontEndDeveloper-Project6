@@ -1,22 +1,29 @@
 Project Details
+
 To run this project, open the index.html file in a browser. All test cases in jasmine spec will run and all 7 cases should pass. 
 The following Feed Reader features are tested:
 
 RSS Feeds
+
 	1. allFeeds are defined
 	2. URL is deinfed and is not empty
 	3. Name is deinfed and is not empty
 The menu
+
 	4. menu elements is hidden by default
 	5. menu changes visibility when the icon is clicked
 Initial Entries
+
 	6. at least a single entry element within the feed container
 New Feed Selection
+
 	7. content changes when a new feed is loaded
 
 
 References:
+
 	Javascript Testing - Udacity
+	
 	Jasmine
 
 
